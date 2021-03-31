@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name sieg-sc4-control-panel-alternative-rescue)(type Legacy)(uri ${KIPRJMOD}/sieg-sc4-control-panel-alternative-rescue.lib)(options "")(descr ""))
+)

@@ -1,0 +1,36 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# LCD-sieg-sc4-control-panel-alternative-sieg-sc4-control-panel-alternative-rescue
+#
+DEF LCD-sieg-sc4-control-panel-alternative-sieg-sc4-control-panel-alternative-rescue U 0 40 Y Y 1 F N
+F0 "U" 0 0 50 H V C CNN
+F1 "LCD-sieg-sc4-control-panel-alternative-sieg-sc4-control-panel-alternative-rescue" 0 100 50 H V C CNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+C 0 -300 112 0 0 0 F
+T 0 250 -550 25 0 0 0 FOR. Normal 0 L C
+T 0 250 -600 25 0 0 0 REV. Normal 0 L C
+T 0 250 -650 25 0 0 0 STOP Normal 0 L C
+S 700 -950 -700 -150 0 0 0 f
+S -400 -450 400 -750 0 1 0 N
+S -250 -500 -350 -700 0 1 16 N
+S -100 -500 -200 -700 0 1 16 N
+S 50 -700 -50 -500 0 1 16 N
+S 100 -500 200 -700 0 1 16 N
+P 2 0 0 16 -350 -600 -250 -600 N
+P 2 0 0 16 -200 -600 -100 -600 N
+P 2 0 0 16 -50 -600 50 -600 N
+P 2 0 0 16 100 -600 200 -600 N
+X D0 1 900 -350 200 L 50 50 1 1 I
+X D1 2 900 -450 200 L 50 50 1 1 I
+X D2 3 900 -550 200 L 50 50 1 1 I
+X GND 4 900 -850 200 L 50 50 1 1 W
+X VCC 5 900 -250 200 L 50 50 1 1 W
+X K 6 900 -750 200 L 50 50 1 1 W
+X A 7 900 -650 200 L 50 50 1 1 W
+ENDDRAW
+ENDDEF
+#
+#End Library
