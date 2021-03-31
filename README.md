@@ -1,5 +1,5 @@
-![PCB image](images/new-pcb.png)
 # SIEG SC4 Display and Keyboard (DSKY) Alternative
+![PCB image](images/new-pcb.png)
 
 This is a replacement Printed Circuit Board (PCB) for the original Sieg SC4 lathe's
 control panel. 
